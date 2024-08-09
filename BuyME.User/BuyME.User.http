@@ -1,0 +1,6 @@
+@BuyME.User_HostAddress = http://localhost:5259
+
+GET {{BuyME.User_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
